@@ -1,0 +1,10 @@
+{
+  "username": "28malohne",
+  "time_classes": ["rapid", "blitz"],
+  "rated_only": true,
+  "months": 3,
+  "max_games": 100,
+  "scan_depth": 11,
+  "puzzle_depth": 14,
+  "blunder_cp": 300
+}
